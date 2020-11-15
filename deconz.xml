@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>deconz</Name>
+  <Name>deconz mapi</Name>
   <Repository>marthoc/deconz</Repository>
   <Registry>https://registry.hub.docker.com/r/marthoc/deconz</Registry>
   <Network>host</Network>
