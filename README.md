@@ -1,6 +1,6 @@
 # unraid-docker-templates
 
-Some Unraid docker template for installing docker images under Unraid.
+Some Unraid docker templates for installing docker images under Unraid.
 
 ## Installation
 
